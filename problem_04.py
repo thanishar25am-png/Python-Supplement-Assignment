@@ -2,8 +2,8 @@
 # Find and fix the error
 
 numbers = [45, 12, 78, 34, 89, 23]
-largest = numbers[0]
+largest = numbers[4]
 for i in range(len(numbers)):
     if numbers[i] > largest:
         largest = numbers[i]
-print(f"Largest number is: {largest}")
+print("Largest number is:" , largest)
