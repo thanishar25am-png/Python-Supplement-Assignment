@@ -1,5 +1,5 @@
 # Problem 11: Count occurrences of each character
-# Find and fix the error
+# Find and fix the erro
 
 text = "programming"
 char_count = {}
